@@ -1,0 +1,4 @@
+ls
+mv
+sudo
+v
